@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LedFx/static/css/main.cabefadd.css",
-    "main.js": "/LedFx/static/js/main.cbd2112d.js",
+    "main.js": "/LedFx/static/js/main.a3833f46.js",
     "static/js/915.67863f6e.chunk.js": "/LedFx/static/js/915.67863f6e.chunk.js",
     "static/media/xmas.png": "/LedFx/static/media/xmas.3e4e83405d14fb81488b.png",
     "static/media/materialdesignicons-webfont.woff": "/LedFx/static/media/materialdesignicons-webfont.059ea00c378aeafc39fc.woff",
@@ -39,6 +39,6 @@
   },
   "entrypoints": [
     "static/css/main.cabefadd.css",
-    "static/js/main.cbd2112d.js"
+    "static/js/main.a3833f46.js"
   ]
 }
