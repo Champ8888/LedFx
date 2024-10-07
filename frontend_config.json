@@ -1,4 +1,14 @@
 {
     "updateUrl": "https://api.github.com/repos/YeonV/LedFx-Builds/releases/latest",
-    "releaseUrl": "https://github.com/LedFx/LedFx/releases/latest"
+    "releaseUrl": "https://github.com/YeonV/LedFx-Builds/releases/latest",
+    "ledfx": {
+        "githubPages": "https://ledfx.github.io/LedFx/#/Ledfx",
+        "updateUrl": "https://api.github.com/repos/LedFx/LedFx/releases/latest",
+        "releaseUrl": "https://github.com/LedFx/LedFx/releases/latest"
+    },
+    "blade": {
+        "githubPages": "https://yeonv.github.io/LedFx-Frontend-v2/#/LedFx-Frontend-v2",
+        "updateUrl": "https://api.github.com/repos/YeonV/LedFx-Builds/releases/latest",
+        "releaseUrl": "https://github.com/YeonV/LedFx-Builds/releases/latest"
+    }
 }
