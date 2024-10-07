@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/LedFx/static/css/main.2494dd19.css",
-    "main.js": "/LedFx/static/js/main.657bb40d.js",
+    "main.js": "/LedFx/static/js/main.3d912216.js",
     "static/js/70.a48b7ced.chunk.js": "/LedFx/static/js/70.a48b7ced.chunk.js",
     "static/media/xmas.png": "/LedFx/static/media/xmas.3e4e83405d14fb81488b.png",
     "static/media/materialdesignicons-webfont.woff": "/LedFx/static/media/materialdesignicons-webfont.059ea00c378aeafc39fc.woff",
@@ -37,11 +37,11 @@
     "static/media/bottom-snake.svg": "/LedFx/static/media/bottom-snake.db3b4254956e7a684042d2838788df90.svg",
     "static/media/left-snake-flip.svg": "/LedFx/static/media/left-snake-flip.d11a3dbe8b64be1ca556c4fafe5da660.svg",
     "main.2494dd19.css.map": "/LedFx/static/css/main.2494dd19.css.map",
-    "main.657bb40d.js.map": "/LedFx/static/js/main.657bb40d.js.map",
+    "main.3d912216.js.map": "/LedFx/static/js/main.3d912216.js.map",
     "70.a48b7ced.chunk.js.map": "/LedFx/static/js/70.a48b7ced.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2494dd19.css",
-    "static/js/main.657bb40d.js"
+    "static/js/main.3d912216.js"
   ]
 }
